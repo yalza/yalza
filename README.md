@@ -1,5 +1,8 @@
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/toann1208) 
+<a href="https://github.com/NNT1208PT173/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=NNT1208PT173&style=for-the-badge">
+</a>
 
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/NNT1208PT173/github-profile-views-counter
 
